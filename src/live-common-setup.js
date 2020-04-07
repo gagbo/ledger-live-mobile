@@ -22,6 +22,7 @@ setSupportedCurrencies([
   "bitcoin_testnet",
   "bitcoin",
   "clubcoin",
+  "cosmos",
   "dash",
   "decred",
   "digibyte",
